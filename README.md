@@ -1,4 +1,5 @@
-# Veszprem_benti_gokart
+# Assetto Corsa Map
+
 Cool gokart map of a hungarian racing track in Veszprém
 
 
