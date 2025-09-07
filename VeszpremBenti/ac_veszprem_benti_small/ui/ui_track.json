@@ -1,11 +1,11 @@
 {
-  "name": "Veszprém Benti",
+  "name": "Veszprém Benti Pici (small)",
   "description": "Cool gokart map of a hungarian racing track in Veszprém",
-  "tags": ["circuit, formula, gt,"],
+  "tags": ["circuit, formula, gt, gokart, hungary"],
   "country": "Hungary",
   "city": "Veszprém",
-  "pitboxes": "24",
+  "pitboxes": "8",
   "year": 2025,
   "author": "RoxareX",
-  "version": "0.9"
+  "version": "0.93"
 }
